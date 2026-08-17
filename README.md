@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋
+# Hi there, I'm Nyo Min Htin 👋
 
 **CS Student • Software Engineering Enthusiast**
 
